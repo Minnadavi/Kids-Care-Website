@@ -7,6 +7,9 @@ body{
     background: radial-gradient(circle, #05263c, #000d1a);
 
 }
+html{
+    scroll-behavior: smooth;
+}
 header{
     position: sticky;
     top: 0;
